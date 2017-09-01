@@ -1,6 +1,6 @@
 # dm-toolkit
 
-> A Vue.js project
+> A tool for quickly generating enemies, tracking initiative, and just generally helping a DM keep their shit together :) 
 
 ## Build Setup
 
